@@ -64,14 +64,13 @@ navs:
 #   -
 #     href: /open-source/
 #     label: 开源
+#  -
+#    href: /Everyday/
+#    label: 日常
 
   -
-    href: /Everyday/
-    label: 日常
-
-#  -
-#    href: /links/
-#    label: 链接
+    href: /links/
+    label: 链接
 
   -
     href: /about/
